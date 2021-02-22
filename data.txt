@@ -1,0 +1,4 @@
+Name: Patricia
+Age: 28
+Favorite Color: Blue
+Favorite animal: Doggy
